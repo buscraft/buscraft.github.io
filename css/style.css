@@ -1,0 +1,71 @@
+body {
+  padding-top: 60px;
+}
+
+.logo {
+  width: 25%;
+  height: 60px;
+  float: left;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  vertical-align: middle;
+}
+
+.logobar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: white;
+  height: min-content;
+  width: 100%;
+}
+
+.topnav {
+  background: rgb(13, 112, 197);
+  background: linear-gradient(90deg, #0d70c5 0%, #0d70c5 0%, #b1ff0f 100%);
+  overflow: hidden;
+  font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+  float: right;
+  width: 70%;
+  margin-top: 0%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: #dddddd3f;
+  color: rgb(255, 255, 255);
+}
+
+.topnav a.active {
+  /* background-color: #b1ff0f; */
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+}
+
+.sectiontext {
+  color: black;
+  float: left;
+  font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+  font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+}
