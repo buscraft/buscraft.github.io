@@ -1,2 +1,2 @@
 # buscraft.github.io
-BusCraft's organization GitHuPage.
+BusCraft's organization GitHub Page.
