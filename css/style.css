@@ -1,6 +1,6 @@
 body {
   padding-top: 60px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 
 .logo {
@@ -24,7 +24,7 @@ body {
 .topnav {
   background: rgb(13, 112, 197);
   background: linear-gradient(90deg, #0d70c5 0%, #0d70c5 0%, #b1ff0f 100%);
-  overflow: hidden;
+  overflow: auto;
   font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
   float: right;
   width: 70%;
